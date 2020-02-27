@@ -16,6 +16,7 @@ public class SimpleListDemo {
 		myList.add(3);
 		myList.add(12);
 		myList.add(13);
+
 		System.out.println("My count: " + myList.count());
 		System.out.println("My array size: " + myList.size());
 
@@ -24,15 +25,11 @@ public class SimpleListDemo {
 		System.out.println("My count: " + myList.count());
 		System.out.println("My array size: " + myList.size());
 
-		myList.remove(99);
+		myList.remove(4);
 		System.out.println(myList);
 		System.out.println("My count: " + myList.count());
 		System.out.println("My array size: " + myList.size());
-		myList.remove(15);
-		System.out.println(myList);
-		System.out.println("My count: " + myList.count());
-		System.out.println("My array size: " + myList.size());
-		myList.remove(7);
+		myList.remove(42);
 		System.out.println(myList);
 		System.out.println("My count: " + myList.count());
 		System.out.println("My array size: " + myList.size());
@@ -40,10 +37,16 @@ public class SimpleListDemo {
 		System.out.println(myList);
 		System.out.println("My count: " + myList.count());
 		System.out.println("My array size: " + myList.size());
+		myList.remove(13);
+		System.out.println(myList);
+		System.out.println("My count: " + myList.count());
+		System.out.println("My array size: " + myList.size());
+
 		myList.remove(100);
 		System.out.println(myList);
 		System.out.println("My count: " + myList.count());
 		System.out.println("My array size: " + myList.size());
 
 	}
+
 }
