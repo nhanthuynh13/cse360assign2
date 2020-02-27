@@ -3,14 +3,14 @@ package cse360assign2;
 //                                                                        //
 //  Nhan Huynh                                                            //
 //  Class ID: 209                                                         //
-//  Assignment 1                                                          //
+//  Assignment 2                                                          //
 //  SimpleList class create and process list of up to 10 data.            //
 //                                                                        //
 //------------------------------------------------------------------------*/
 
 /**
  * The SimpleList class creates an array of size 10 to emulate a list.
- * Its data includes: 
+ * Its data includes:
  * 		* list : an array of size 10 of integers to store data 
  * 		* count : the number of data currently in the list 
  * 

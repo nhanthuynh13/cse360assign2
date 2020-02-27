@@ -4,7 +4,7 @@ package cse360assign2;
 //																		  //
 //  Nhan Huynh                                                            //
 //  Class ID: 209                                                         //
-//  Assignment 1                                                          //
+//  Assignment 2                                                          //
 //  SimpleListDemo to demonstrate and test SimpleList class.              //
 //  																	  //
 //------------------------------------------------------------------------*/
